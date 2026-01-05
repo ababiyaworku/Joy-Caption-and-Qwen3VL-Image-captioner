@@ -34,7 +34,8 @@ pip install -r requirements.txt
 ```bash
 export HF_TOKEN=your_token_here
 ```
-
+4, Download the adapter
+[https://huggingface.co/spaces/fancyfeast/joy-caption-pre-alpha/tree/main/wpkklhc6](joy-caption)
 ## Usage
 
 ### Basic Usage
