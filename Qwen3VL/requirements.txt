@@ -1,0 +1,18 @@
+# Core dependencies
+torch>=2.0.0
+transformers>=4.37.0
+accelerate>=0.20.0
+
+# Image processing
+pillow>=10.0.0
+pillow-heif>=0.13.0
+
+# Quantization
+bitsandbytes>=0.41.0
+
+# Utilities
+tqdm>=4.65.0
+
+# Optional: For better performance
+# ninja  # Speeds up compilation
+# flash-attn  # Faster attention (requires specific CUDA setup)
