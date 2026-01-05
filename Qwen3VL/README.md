@@ -67,6 +67,7 @@ SKIP_EXISTING = True              # Skip existing captions
 - PNG (.png)
 - WebP (.webp)
 - HEIC (.heic)
+- JFIF (.jfif)
 
 ## Output
 
